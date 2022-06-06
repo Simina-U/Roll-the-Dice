@@ -60,7 +60,7 @@ body {
 }
 #player--0,
 #player--1 {
-  padding-top: 10vh;
+  padding-top: 5vh;
   padding-bottom: 5vh;
   display: flex;
   flex-direction: column;
@@ -88,7 +88,7 @@ body {
   width: 90%;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 29vh;
+  margin-top: 25vh;
   display: flex;
   flex-direction: row;
   justify-content: center;
